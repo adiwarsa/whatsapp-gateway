@@ -1,0 +1,56 @@
+[2024-11-23 22:02:05] local.ERROR: Cannot redeclare str_extract() (previously declared in C:\Users\suwir\Downloads\whatsapp-gateway\app\helpers.php:5) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare str_extract() (previously declared in C:\\Users\\suwir\\Downloads\\whatsapp-gateway\\app\\helpers.php:5) at C:\\Users\\suwir\\Downloads\\whatsapp-gateway\\app\\helpers.php:14)
+[stacktrace]
+#0 {main}
+"} 
+[2024-11-23 22:03:03] local.ERROR: Cannot redeclare str_extract() (previously declared in C:\Users\suwir\Downloads\whatsapp-gateway\app\helpers.php:5) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare str_extract() (previously declared in C:\\Users\\suwir\\Downloads\\whatsapp-gateway\\app\\helpers.php:5) at C:\\Users\\suwir\\Downloads\\whatsapp-gateway\\app\\helpers.php:14)
+[stacktrace]
+#0 {main}
+"} 
+[2024-11-23 22:04:02] local.ERROR: Cannot redeclare str_extract() (previously declared in C:\Users\suwir\Downloads\whatsapp-gateway\app\helpers.php:5) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare str_extract() (previously declared in C:\\Users\\suwir\\Downloads\\whatsapp-gateway\\app\\helpers.php:5) at C:\\Users\\suwir\\Downloads\\whatsapp-gateway\\app\\helpers.php:14)
+[stacktrace]
+#0 {main}
+"} 
+[2024-11-23 22:05:02] local.ERROR: Cannot redeclare str_extract() (previously declared in C:\Users\suwir\Downloads\whatsapp-gateway\app\helpers.php:5) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare str_extract() (previously declared in C:\\Users\\suwir\\Downloads\\whatsapp-gateway\\app\\helpers.php:5) at C:\\Users\\suwir\\Downloads\\whatsapp-gateway\\app\\helpers.php:14)
+[stacktrace]
+#0 {main}
+"} 
+[2024-11-23 22:06:02] local.ERROR: Cannot redeclare str_extract() (previously declared in C:\Users\suwir\Downloads\whatsapp-gateway\app\helpers.php:5) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare str_extract() (previously declared in C:\\Users\\suwir\\Downloads\\whatsapp-gateway\\app\\helpers.php:5) at C:\\Users\\suwir\\Downloads\\whatsapp-gateway\\app\\helpers.php:14)
+[stacktrace]
+#0 {main}
+"} 
+[2024-11-23 22:07:02] local.ERROR: Cannot redeclare str_extract() (previously declared in C:\Users\suwir\Downloads\whatsapp-gateway\app\helpers.php:5) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare str_extract() (previously declared in C:\\Users\\suwir\\Downloads\\whatsapp-gateway\\app\\helpers.php:5) at C:\\Users\\suwir\\Downloads\\whatsapp-gateway\\app\\helpers.php:14)
+[stacktrace]
+#0 {main}
+"} 
+[2024-11-23 22:08:02] local.ERROR: Cannot redeclare str_extract() (previously declared in C:\Users\suwir\Downloads\whatsapp-gateway\app\helpers.php:5) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare str_extract() (previously declared in C:\\Users\\suwir\\Downloads\\whatsapp-gateway\\app\\helpers.php:5) at C:\\Users\\suwir\\Downloads\\whatsapp-gateway\\app\\helpers.php:14)
+[stacktrace]
+#0 {main}
+"} 
+[2024-11-23 22:09:04] local.ERROR: Cannot redeclare str_extract() (previously declared in C:\Users\suwir\Downloads\whatsapp-gateway\app\helpers.php:5) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare str_extract() (previously declared in C:\\Users\\suwir\\Downloads\\whatsapp-gateway\\app\\helpers.php:5) at C:\\Users\\suwir\\Downloads\\whatsapp-gateway\\app\\helpers.php:14)
+[stacktrace]
+#0 {main}
+"} 
+[2024-11-23 22:10:02] local.ERROR: Cannot redeclare str_extract() (previously declared in C:\Users\suwir\Downloads\whatsapp-gateway\app\helpers.php:5) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare str_extract() (previously declared in C:\\Users\\suwir\\Downloads\\whatsapp-gateway\\app\\helpers.php:5) at C:\\Users\\suwir\\Downloads\\whatsapp-gateway\\app\\helpers.php:14)
+[stacktrace]
+#0 {main}
+"} 
+[2024-11-23 22:11:03] local.ERROR: Cannot redeclare str_extract() (previously declared in C:\Users\suwir\Downloads\whatsapp-gateway\app\helpers.php:5) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare str_extract() (previously declared in C:\\Users\\suwir\\Downloads\\whatsapp-gateway\\app\\helpers.php:5) at C:\\Users\\suwir\\Downloads\\whatsapp-gateway\\app\\helpers.php:14)
+[stacktrace]
+#0 {main}
+"} 
+[2024-11-23 22:12:02] local.ERROR: Cannot redeclare str_extract() (previously declared in C:\Users\suwir\Downloads\whatsapp-gateway\app\helpers.php:5) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare str_extract() (previously declared in C:\\Users\\suwir\\Downloads\\whatsapp-gateway\\app\\helpers.php:5) at C:\\Users\\suwir\\Downloads\\whatsapp-gateway\\app\\helpers.php:14)
+[stacktrace]
+#0 {main}
+"} 
+[2024-11-23 22:13:02] local.ERROR: Cannot redeclare str_extract() (previously declared in C:\Users\suwir\Downloads\whatsapp-gateway\app\helpers.php:5) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare str_extract() (previously declared in C:\\Users\\suwir\\Downloads\\whatsapp-gateway\\app\\helpers.php:5) at C:\\Users\\suwir\\Downloads\\whatsapp-gateway\\app\\helpers.php:14)
+[stacktrace]
+#0 {main}
+"} 
+[2024-11-23 22:14:02] local.ERROR: Cannot redeclare str_extract() (previously declared in C:\Users\suwir\Downloads\whatsapp-gateway\app\helpers.php:5) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare str_extract() (previously declared in C:\\Users\\suwir\\Downloads\\whatsapp-gateway\\app\\helpers.php:5) at C:\\Users\\suwir\\Downloads\\whatsapp-gateway\\app\\helpers.php:14)
+[stacktrace]
+#0 {main}
+"} 
+[2024-11-23 22:15:02] local.ERROR: Cannot redeclare str_extract() (previously declared in C:\Users\suwir\Downloads\whatsapp-gateway\app\helpers.php:5) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare str_extract() (previously declared in C:\\Users\\suwir\\Downloads\\whatsapp-gateway\\app\\helpers.php:5) at C:\\Users\\suwir\\Downloads\\whatsapp-gateway\\app\\helpers.php:14)
+[stacktrace]
+#0 {main}
+"} 
